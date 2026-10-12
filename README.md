@@ -1,10 +1,6 @@
 <div align="center">
 
-# Algorithms & AI Agents
-
-Go · Python · backend engineering
-
-[![Go](https://img.shields.io/badge/Go-5b86d8?style=flat-square&logo=go&logoColor=white)](https://go.dev/) [![Python](https://img.shields.io/badge/Python-d889ad?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Algorithms](https://img.shields.io/badge/Algorithms-756eaf?style=flat-square)](#) [![AI Agents](https://img.shields.io/badge/AI_Agents-bd6f96?style=flat-square)](#)
+![Algorithms & AI Agents](./profile-window.svg)
 
 </div>
 
