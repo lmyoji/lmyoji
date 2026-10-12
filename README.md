@@ -1,6 +1,7 @@
-# lmyoji
-## Algorithms & AI Agents
-![Pink-blue SVG rabbit pet](./rabbit.svg/rabbit.svg)
+| lmyoji / profile README | ![corner rabbit](./rabbit.svg/rabbit.svg) |
+| --- | ---: |
+| # Algorithms & AI Agents | *a small corner pet* |
+| Go · Python · backend engineering · practical systems |  |
 [![Go](https://img.shields.io/badge/Go-2d6a8f?style=flat-square&logo=go&logoColor=white)](https://go.dev/) [![Python](https://img.shields.io/badge/Python-5b6ea6?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Algorithms](https://img.shields.io/badge/Algorithms-7d78b8?style=flat-square)](#) [![AI Agents](https://img.shields.io/badge/AI_Agents-c26a8d?style=flat-square)](#)
 ## What I work on
 - **AI agent systems** — tool calling, orchestration, memory, evaluation, and dependable workflows
