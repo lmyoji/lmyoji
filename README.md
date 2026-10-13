@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lmyoji/lmyoji/765ab9a7000ddb2334d3065c512fdce2bb0df292/profile-window.svg" width="1100" alt="lmyoji — Algorithms and AI Agents. A soft pink and blue workspace with a small rabbit perched on the code window.">
+  <img src="https://raw.githubusercontent.com/lmyoji/lmyoji/562fc0c76a1b26f222dc3680aabb5801f00fde97/profile-window.svg" width="1100" alt="lmyoji — Algorithms and AI Agents. A soft pink and blue workspace with a small rabbit perched on the code window.">
 </p>
 
 <p align="center">
